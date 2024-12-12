@@ -1,0 +1,10 @@
+Rapport des emails suspects:
+Expéditeur : trusted@example.com
+Motifs : Lien suspect
+
+Expéditeur : fake@example.com
+Motifs : Lien suspect, Expéditeur non vérifié
+
+Expéditeur : phishing@scam.com
+Motifs : Lien suspect, Expéditeur non vérifié
+

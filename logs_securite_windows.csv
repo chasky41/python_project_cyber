@@ -1,0 +1,7 @@
+TimeCreated,EventID,Message
+2024-12-12 10:00:00,4625,Failed logon attempt from user X
+2024-12-12 10:05:00,4624,Successful logon by user Y
+2024-12-12 10:10:00,4625,Failed logon attempt from user Z
+2024-12-12 10:15:00,4634,User logged off
+2024-12-12 10:20:00,4625,Failed logon attempt from user W
+2024-12-12 10:25:00,4624,Successful logon by user A

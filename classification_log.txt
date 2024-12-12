@@ -1,0 +1,6 @@
+2024-12-12 15:42:05,121 - INFO - Création du dossier : C:\Fichier_py\txt
+2024-12-12 15:42:05,121 - INFO - Fichier déplacé : C:\Fichier_py\document1.txt -> C:\Fichier_py\txt\document1.txt
+2024-12-12 15:42:05,122 - INFO - Création du dossier : C:\Fichier_py\jpg
+2024-12-12 15:42:05,123 - INFO - Fichier déplacé : C:\Fichier_py\image1.jpg -> C:\Fichier_py\jpg\image1.jpg
+2024-12-12 15:42:05,124 - INFO - Création du dossier : C:\Fichier_py\pdf
+2024-12-12 15:42:05,125 - INFO - Fichier déplacé : C:\Fichier_py\presentation.pdf -> C:\Fichier_py\pdf\presentation.pdf

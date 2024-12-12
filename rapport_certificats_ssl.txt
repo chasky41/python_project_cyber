@@ -1,0 +1,4 @@
+google.com : Valide (45 jours restants)
+expired.badssl.com : Inconnu (0 jours restants)
+github.com : Valide (85 jours restants)
+example.com : Valide (79 jours restants)
